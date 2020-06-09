@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: balai
- * Date: 13/05/2020
- * Time: 10:27
- */
+
 include "City.php";
 include "Card.php";
 
