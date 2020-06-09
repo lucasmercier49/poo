@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: balai
- * Date: 13/05/2020
- * Time: 16:39
- */
-
 class City{
     public $name;
     public $price;
